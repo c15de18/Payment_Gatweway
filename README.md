@@ -46,10 +46,4 @@ var PaytmConfig = {
 module.exports.PaytmConfig = PaytmConfig;
 ```
 
-## Resources 📚
-- For more information about Paytm integration, you can check their documentation guide: https://developer.paytm.com/docs/
-- For testing purposes, you can use their test API key, test wallet details, and deprecated flow integration: 
-  - https://dashboard.paytm.com/next/apikeys
-  - https://business.paytm.com/docs/api/process-transaction-api/
-  - https://business.paytm.com/docs/test-instruments/testing-integration?ref=otherlinks
-  - https://business.paytm.com/docs/v1/payment-gateway/deprecated-flow-integration/
+
