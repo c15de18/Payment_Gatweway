@@ -4,7 +4,7 @@
 
 <div align="center">
 <img  alt="Developer Pic"
-        src="https://user-images.githubusercontent.com/97989643/236471899-e54539d1-7ce8-4ab4-a29c-cc55f18d797f.png" width="780"/>
+        <img width="780"  src="https://github.com/user-attachments/assets/8a4ae63d-6d12-44eb-a460-f395313f9dfe" />
 <img  alt="Developer Pic"
         src="https://user-images.githubusercontent.com/97989643/236472641-a685568e-925a-48c5-8250-0ffee12e5e1b.png"  width="780"/>
 </div>
